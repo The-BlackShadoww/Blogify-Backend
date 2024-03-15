@@ -8,44 +8,17 @@
             "avatar": "avatar-1710397551046-585152151.jpeg",
             "bio": "",
             "password": "$2b$08$Q./85qVYFzisItAzI9f9V.xkt4lOTCeK6lavF6aj2IVpHEgMDUTD2",
-            "favourites": [
-                {
-                    "id": "7c12b4b48531bcc995ae",
-                    "title": "A guide to Prototype in JavaScript",
-                    "tags": "programming, algorithm, prototype, javascript"
-                },
-                {
-                    "id": "20b37f341a1ce68b142b",
-                    "title": "new",
-                    "tags": "javascript, React"
-                }
-            ]
+            "favourites": []
         },
         {
             "id": "b3c12d164db581226799",
             "email": "ashikur@gmail.com",
-            "firstName": "Ashikur",
+            "firstName": "Ashikur", 
             "lastName": "Rahman",
             "avatar": "avatar-1710411940020-128123089.png",
             "bio": "hello",
             "password": "$2b$08$rlC0brC9bVlKRdTMsvUo2O2d0udnK6NMFVwTUd4ORkHdp.S1ROsRq",
-            "favourites": [
-                {
-                    "id": "7c12b4b48531bcc995ae",
-                    "title": "A guide to Prototype in JavaScript",
-                    "tags": "programming, algorithm, prototype, javascript"
-                },
-                {
-                    "id": "a8a0b1eee2b4b56f1b6a",
-                    "title": "My blog",
-                    "tags": "javascript, React"
-                },
-                {
-                    "id": "20b37f341a1ce68b142b",
-                    "title": "new",
-                    "tags": "javascript, React"
-                }
-            ]
+            "favourites": []
         }
     ],
     "blogs": [
@@ -61,14 +34,7 @@
                 "avatar": null
             },
             "tags": "javascript, React",
-            "likes": [
-                {
-                    "id": "5435e1b2e3220af2553f"
-                },
-                {
-                    "id": "b3c12d164db581226799"
-                }
-            ],
+            "likes": [],
             "comments": [],
             "createdAt": "2024-03-14T06:25:41.367Z",
             "isFavourite": false
@@ -85,11 +51,7 @@
                 "avatar": null
             },
             "tags": "javascript, React",
-            "likes": [
-                {
-                    "id": "b3c12d164db581226799"
-                }
-            ],
+            "likes": [],
             "comments": [],
             "createdAt": "2024-03-14T10:24:36.258Z",
             "isFavourite": true
